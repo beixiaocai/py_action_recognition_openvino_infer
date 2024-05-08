@@ -16,6 +16,13 @@
 python action_recognition_server.py
 
 默认端口: 9701
+~~~
+
+### 测试
+
+~~~
+//启动测试模型的脚本，默认去读取data/kd.mp4去识别分析动作，用户可以替换成自己的视频文件
+python tests.py
 
 ~~~
 
